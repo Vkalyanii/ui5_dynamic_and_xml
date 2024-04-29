@@ -1,0 +1,147 @@
+<mvc:View
+    controllerName="com.app.booksdetails.controller.Details"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+    xmlns:form="sap.ui.layout.form"
+    xmlns:u="sap.uxap"
+    xmlns="sap.m" 
+    xmlns:core="sap.ui.core" 
+
+>
+    <u:ObjectPageLayout
+        id="idBooksDetailsForm"
+        upperCaseAnchorBar="true"
+    >
+         <u:headerTitle>
+            <u:ObjectPageDynamicHeaderTitle id="idObjectPageDynamicTitle">
+                <u:expandedHeading>
+                    <Title
+                        id="idBooksDetailsTitle"
+                        text="{author}"
+                    />
+                </u:expandedHeading>
+            </u:ObjectPageDynamicHeaderTitle>
+        </u:headerTitle> 
+        <u:sections>
+        <u:ObjectPageSection id="_IDGenObjectPageSection1" title="Books Information" >
+         <u:subSections>
+                    <u:ObjectPageSubSection id="idGeneralInfoSubSection">
+                    <core:Fragment 
+                    type="XML" 
+                    fragmentName="com.app.booksdetails.fragments.Generalinformation" />
+                    
+                    
+                    <!-- <form:SimpleForm id="_IDGenSimpleForm1" >
+
+                    <Label
+                                    id="idNameLabel"
+                                    text="Author Name"
+                                />
+                                <Text
+                                    id="idNameText"
+                                    text="{author}"
+                                />
+                                <Label
+                                    id="idTitleLabel"
+                                    text="Title"
+                                />
+                                <Text
+                                    id="idTitleText"
+                                    text="{title}"
+                                />
+                                <Label
+                                    id="idStockLabel"
+                                    text="Stock"
+                                />
+                                <Text
+                                    id="idPhoneText"
+                                    text="{stock}"
+                                />
+                                </form:SimpleForm> -->
+
+        </u:ObjectPageSubSection>
+        </u:subSections>
+        </u:ObjectPageSection>  
+        <u:ObjectPageSection id="_IDGenObjectPageSection2" title="Address Details" >
+         <u:subSections>
+                    <u:ObjectPageSubSection id="_IDGenObjectPageSubSection1" >
+                    <u:blocks>
+
+                      <core:Fragment 
+                    type="XML" 
+                    fragmentName="com.app.booksdetails.fragments.Address" />
+                  
+                            <!-- <Table
+                                id="idEmployeeAddressTable"
+                                alternateRowColors="true"
+                                items="{addresses}"
+                            >
+                                <columns>
+                                    <Column id="idCityColumn">
+                                        <Title
+                                            id="idCityColumnHeader"
+                                            text="City"
+                                        />
+                                    </Column>
+                                    <Column id="idAddressColumn">
+                                        <Title
+                                            id="idAddressColumnHeader"
+                                            text="Address"
+                                        />
+                                    </Column>
+                                    <Column id="idPincodeColumn">
+                                        <Title
+                                            id="idPincodeColumnHeader"
+                                            text="Pincode"
+                                        />
+                                    </Column>
+                                    <Column id="idStreetColumn">
+                                        <Title
+                                            id="idStreetColumnHeader"
+                                            text="Street"
+                                        />
+                                    </Column>
+                                    <Column id="idLandmarkColumn">
+                                        <Title
+                                            id="idLandmarkColumnHeader"
+                                            text="Landmark"
+                                        />
+                                    </Column>
+                                </columns>
+                                <items>
+                                    <ColumnListItem
+                                        id="idEmployeeAddressColumnList"
+                                    >
+                                        <Text
+                                            id="idCityColumnValue"
+                                            text="{city}"
+                                        />
+                                        <Text
+                                            id="idAddressColumnValue"
+                                            text="{_address}"
+                                        />
+                                        <Text
+                                            id="idPinCodeColumnValue"
+                                            text="{pincode}"
+                                        />
+                                        <Text
+                                            id="idStreetColumnValue"
+                                            text="{street}"
+                                        />
+                                        <Text
+                                            id="idLandmarkColumnValue"
+                                            text="{landmark}"
+                                        />
+                                    </ColumnListItem>
+                                </items>
+                            </Table> -->
+                            </u:blocks>
+                    
+
+        </u:ObjectPageSubSection>
+        </u:subSections>
+        </u:ObjectPageSection>  
+        </u:sections>
+    </u:ObjectPageLayout>
+</mvc:View>

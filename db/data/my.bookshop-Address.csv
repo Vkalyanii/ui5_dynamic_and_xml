@@ -1,0 +1,28 @@
+ID,city,_address,pincode,street,landmark
+998bf24d-2ed8-4c55-84c7-e3b0e36880d0,hyd,miyapur,543234,bommarillu restaruent,c718ea21-0b37-4cc9-899b-7f4389e356d2
+998bf24d-2ed8-4c55-84c7-e3b0e36880d1, hyd, miyapur, 543234, bommarillu restaurant,f2dc7b22-c785-47ff-94d6-4d21d1ae3b35
+5a9e98d6-1421-4e4b-837e-7150e3164e3c, hyd, kukatpally, 500072, spice junction,a8c395a6-1c29-4707-a4f1-3293ff032db8
+efcf4d9a-faf2-4a63-9dd4-05b501217321, delhi, connaught place, 110001, the big chill,bfdcc1a9-c029-47a8-9b72-54f7e74c8306
+34798c16-5b6b-4f5e-8970-2e2946b344b1, mumbai, bandra, 400050, gobble up,342f45da-e2d3-45e8-8d2b-7a88d2a443f5
+8e6b82c1-7b1f-4540-b2aa-90f3c6344c28, chennai, nungambakkam, 600034, the black pearl,f09141e3-f3db-4a2e-bf0a-7f416dc68985
+20c46abf-4e0c-49a4-b994-d024b3d54c6d, bangalore, indiranagar, 560038, cravings cafe,ba45e6b7-5a62-4e2f-bc72-2a1a9274833d
+7453a2e9-eb20-4df0-99d1-1f7483c08dcf, kolkata, park street, 700016, flame grill,7c5a1d98-d2a3-4e6f-a2b7-1f4f5e7c93d6
+3d002157-2a4d-40b2-b1c6-37d366a6c1f8, pune, hinjewadi, 411057, the curry house,d8b18c4c-8c2b-49c6-9a43-1efad22d6a1d
+6279ae3c-fc42-42c7-8321-16341f44a3e9, jaipur, vaishali nagar, 302021, tandoori delight,1c3a7fb4-6d5e-4d3b-b3f7-21e1c9f7e1f4
+b8d2c171-fb39-4a02-b57b-bf1e5a0e13a5, ahmedabad, navrangpura, 380009, sizzling bites,3ae1f672-d5d1-4569-9d7b-9c5f9fdb8323
+e7425e94-2f2c-421d-a3ac-52b100b83a7a, hyd, gachibowli, 500032, shahi dastarkhwan,e2e98a72-0f2b-4d5b-9e1d-5a1f1e6a7c3b
+30454a37-9ff2-486f-bb6e-963c7365dbb9, mumbai, powai, 400076, fisherman's wharf,f1d2e3c4-b5a6-47d5-8e2f-3a1b1e2c3d4e
+9e4c0d4d-5b9d-41d4-8753-f543d6a2b095, chennai, adyar, 600020, the coastal kitchen,d5e4f3c2-7a6b-48f7-9a5e-3c1f2b3e4d5c
+c91d947f-4892-4040-9c84-8fd1d1c07659, bangalore, koramangala, 560034, the rooftop lounge,ac4f5b6d-7e8a-48f1-9b2c-3f1e7d6a5b2c
+5e5a42a8-82a6-4c8b-a6c5-36152c9f8e12, delhi, hauz khas, 110016, olive bistro,b3c2d1e4-7f6a-48d7-9b1e-3f1c2b4e5d6f
+3fc198a9-2b0e-46f3-a648-79f46ac9d1aa, hyd, madhapur, 500081, the spice route,d4c3b2a1-8f9e-4d6b-9c1e-3f1b2c4d5e6f
+4c682b77-6ef2-4e7f-bf9b-bf89da72b6ad, mumbai, juhu, 400049, masala mantra,e3c4b5a6-7f8e-49f1-9c1b-3a1e2d3c4f5b
+7ad801d8-3cc7-48b8-b81d-352c4988c8f3, kolkata, salt lake, 700106, the smokehouse,d1e2f3c4-b6a7-48d1-9b2c-3f1e2c3d4f5a
+2e87d2b1-af1d-4e77-b52a-4d8a953c83e0, pune, koregaon park, 411001, the urban spice,f3c4b5a6-7d8e-4e2f-9b1e-3f1c2b3e4d5f
+d9cde156-6e86-4ff9-80ee-4495c49d83de, jaipur, c scheme, 302001, the pink city bites,b4c3d2e1-8f9e-4d6c-9b1e-3f1a2b3c4d5e
+1a34f9a6-855d-491b-a254-208f336736f1, ahmedabad, satellite, 380015, the food hub,a1b2c3d4-e5f6-48f1-9b2c-3f1c2b4e5d6g
+89b7cf64-f1b5-4ec3-a2c7-823b0804a9d2, bangalore, jayanagar, 560041, the green leaf,d6f5e4c3-b2a1-47d7-8f9c-3f1e2c3d4e5f
+6b6c3b26-8200-4642-9ad5-1f9c39a1d70d, delhi, connaught place, 110001, the tea junction,c3b2a1d4-7e8f-49e2-9c1b-3f1d2c3e4f5g
+af1e6c2d-04a4-462d-bfe1-11e5f7b071f3, hyd, banjara hills, 500034, the aromatic kitchen,f4e3d2c1-b6a7-49f1-9b1e-3f1c2b3e4d5g
+e1d730a6-1f47-41ed-914f-bd5a8b254fc1, chennai, velachery, 600042, the sizzling grill,e5c4b3a2-7f8e-49d1-9c1e-3f1b2d3c4e5f
+d5f4b4e2-c94d-4e49-a8fd-1f38e8a1a43e, mumbai, colaba, 400005, the seafood shack,c2d1b3e4-7f8e-49e1-9b2c-3f1c2b3e4f5h
